@@ -6,7 +6,7 @@ Build a Neural Network from scratch in Python (Adam optimizer for SGD, and ReLU 
 2. Construct a Neural Network Classifier from the given training data (w/o ML library calls)
 3.  Use the learned classifier to classify the unlabeled test data (Multi-Class labels)
 
-![Neural Net Structure](neural_net)
+![Neural Net Structure](neural_net.png)
 
 #### Features of Program:
 1. xavier() - xavier initialization as oposed to assigning andom weights
@@ -21,7 +21,7 @@ Build a Neural Network from scratch in Python (Adam optimizer for SGD, and ReLU 
 9. label_binarize() - binarize label for multiclass
 
 
-![Code Structure](structure)
+![Code Structure](structure.png)
 
 #### Program Structure:
 1. Split dataset to batches 
@@ -51,23 +51,15 @@ get a good result
 1. https://github.com/mnielsen/neural-networks-and-deep-learning
 2. http://neuralnetworksanddeeplearning.com/chap1.html
 3. https://www.youtube.com/watch?v=IHZwWFHWa-w
-4. https://stats.stackexchange.com/questions/181/how-to-choose-the-numberof-
-hidden-layers-and-nodes-in-a-feedforward-neural-netw
-5. https://towardsdatascience.com/weight-initialization-techniques-in-neuralnetworks-
-26c649eb3b78
+4. https://stats.stackexchange.com/questions/181/how-to-choose-the-numberof-hidden-layers-and-nodes-in-a-feedforward-neural-netw
+5. https://towardsdatascience.com/weight-initialization-techniques-in-neuralnetworks-26c649eb3b78
 6. https://www.youtube.com/watch?v=x_Eamf8MHwU
-7. https://stats.stackexchange.com/questions/181/how-to-choose-the-numberof-
-hidden-layers-and-nodes-in-a-feedforward-neural-netw
-8. https://medium.com/binaryandmore/beginners-guide-to-deriving-andimplementing-
-backpropagation-e3c1a5a1e536
+7. https://stats.stackexchange.com/questions/181/how-to-choose-the-numberof-hidden-layers-and-nodes-in-a-feedforward-neural-netw
+8. https://medium.com/binaryandmore/beginners-guide-to-deriving-andimplementing-backpropagation-e3c1a5a1e536
 9. https://ml-cheatsheet.readthedocs.io/en/latest/backpropagation.html
-10. https://towardsdatascience.com/weight-initialization-techniques-in-neuralnetworks-
-26c649eb3b78
-11. https://medium.com/datadriveninvestor/overview-of-different-optimizersfor-
-neural-networks-e0ed119440c3
+10. https://towardsdatascience.com/weight-initialization-techniques-in-neuralnetworks-26c649eb3b78
+11. https://medium.com/datadriveninvestor/overview-of-different-optimizersfor-neural-networks-e0ed119440c3
 12. https://www.python-course.eu/neural_networks_with_python_numpy.php
-13. https://medium.com/better-programming/how-to-build-2-layer-neuralnetwork-
-from-scratch-in-python-4dd44a13ebba
+13. https://medium.com/better-programming/how-to-build-2-layer-neuralnetwork-from-scratch-in-python-4dd44a13ebba
 14. https://mattmazur.com/2015/03/17/a-step-by-step-backpropagationexample/
-15. https://medium.com/datadriveninvestor/overview-of-different-optimizersfor-
-neural-networks-e0ed119440c3
+15. https://medium.com/datadriveninvestor/overview-of-different-optimizersfor-neural-networks-e0ed119440c3
