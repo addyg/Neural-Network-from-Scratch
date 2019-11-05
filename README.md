@@ -42,7 +42,7 @@ get a good result
 1. Number of Hidden layers
 2. Number of Neurons in each hidden laye
 3. Learning Rate, or alpha
-4. Batch Size, which is no. of smpales processed before model updated
+4. Batch Size, which is no. of samples processed before model updated
 5. Number of epochs
 
 #### See plots for log_loss and accuracy plots
